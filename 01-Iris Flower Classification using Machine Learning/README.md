@@ -3,16 +3,17 @@
 Install the Data :  
 https://github.com/jbrownlee/Datasets/blob/master/iris.csv  
   
-The dataset contains information on 150 flowers, which was collected by Edgar Anderson in a CSV file. For each flower, the data includes its petal (length and width) and sepal (length and width).  
+The dataset contains information on 150 flowers, which was collected by Edgar Anderson in a CSV file.  
+For each flower, the data includes its petal (length and width) and sepal (length and width).  
 Copy the Iris.csv file you downloaded to your project folder and start executing the cells in the notebook.  
   
 In this project i'm used the libraries below :  
---> pandas
---> numpy
---> matplotlib
+--> pandas  
+--> numpy  
+--> matplotlib  
 --> seaborn  
---> sklearn
-
+--> sklearn  
+  
 This project has 5 steps :   
 1) Load the data
 2) Analyze and process the data using different graphs and descriptions  
