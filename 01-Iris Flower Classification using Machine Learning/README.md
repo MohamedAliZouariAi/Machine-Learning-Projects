@@ -19,7 +19,7 @@ This project has 5 steps :
 2) Analyze and process the data using different graphs and descriptions  
 3) Train the data with different algorithms to determine the best one
 4) Evaluate the model
-5) Test the model
+5) Test the model  
 The final results of this project are :  
 *) Accuracy score = 0.96  
 *) Precision  =  0.95  
