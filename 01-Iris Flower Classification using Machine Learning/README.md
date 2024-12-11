@@ -3,8 +3,8 @@
 Install the Data :  
 https://github.com/jbrownlee/Datasets/blob/master/iris.csv  
   
-the dataset contains 150 flowers as information was collected by Edgar Anderson in a csv file for each flower its pedal (length and width) and its sepal (length and width).  
-copy the Iris.csv file downloaded on your project folder and start executing the cells of the notebook  
+The dataset contains information on 150 flowers, which was collected by Edgar Anderson in a CSV file. For each flower, the data includes its petal (length and width) and sepal (length and width).  
+Copy the Iris.csv file you downloaded to your project folder and start executing the cells in the notebook.  
   
 In this project i'm used the libraries below :  
 --> pandas
@@ -13,14 +13,14 @@ In this project i'm used the libraries below :
 --> seaborn  
 --> sklearn
 
-this project has 5 steps :   
+This project has 5 steps :   
 1) Load the data
-2) Analyse and processing the data with different graphs and descriptions  
-3) Training the data with different algorithms to check the best
+2) Analyze and process the data using different graphs and descriptions  
+3) Train the data with different algorithms to determine the best one
 4) Evaluate the model
 5) Test the model  
-the final results of this project are :
-accuracy score = 0.96
-precision  =  0.95
-recall = 0.97
-f1 score = 0.96  
+The final results of this project are :
+*) Accuracy score = 0.96
+*) Precision  =  0.95
+*) Recall = 0.97
+*) F1 score = 0.96  
