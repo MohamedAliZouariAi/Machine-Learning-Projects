@@ -19,7 +19,7 @@ This project has 5 steps :
 3) Train the data with different algorithms to determine the best one
 4) Evaluate the model
 5) Test the model
-The final results of this project are :
+The final results of this project are :  
 *) Accuracy score = 0.96  
 *) Precision  =  0.95  
 *) Recall = 0.97  
