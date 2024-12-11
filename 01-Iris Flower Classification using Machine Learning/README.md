@@ -7,7 +7,7 @@ The dataset contains information on 150 flowers, which was collected by Edgar An
 For each flower, the data includes its petal (length and width) and sepal (length and width).  
 Copy the Iris.csv file you downloaded to your project folder and start executing the cells in the notebook.  
   
-In this project i'm used the libraries below :  
+In this project i used the following libraries:    
 --> pandas  
 --> numpy  
 --> matplotlib  
